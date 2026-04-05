@@ -9,8 +9,6 @@
 
 ## 📸 Screenshot
 
-👉 *(Add your screenshot below)*
-
 ![App Screenshot](screenshot.png)
 
 ---
