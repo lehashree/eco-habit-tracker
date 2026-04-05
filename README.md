@@ -134,5 +134,5 @@ If you like this project:
 
 ## 👩‍💻 Author
 
-Developed with ❤️ by **Lehashree**
+Developed with ❤️ by **Lehashree Srinivasan**
 
